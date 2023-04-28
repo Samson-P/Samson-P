@@ -1,4 +1,4 @@
-## Привет, я Похиленко Самсон! Другое мое имя **Samson-P**)
+## Привет, я Похиленко Самсон!
 
 Пишу этот `README.md`, чтобы вы, прекрасные люди, читающие мое резюме, порадовались, что я специально для вас посидел вечерок, понаводил тут красоту.
 
@@ -18,10 +18,13 @@
  <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="30" height="30" />
  <img src="icons8-qt-50.png" alt="Qt" width="30" height="30" />
  <img src="PySimpleGUI.png" alt="Qt" width="30" height="30" />
+ <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="python" width="30" height="30" />
+ <img src="icons8-postgresql-100.png" alt="python" width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="ansible" width="30" height="30" /> 
  </p>
- 
+
+
 ### Я не люблю сложности, поэтому пользуюсь модулями, которые сам собираю
  В совершенно любой среде для виртуализации, если речь идет о полноценных серверах, или я нахожусь в стадии проектирования, я использую Hyper-V, VBox, реже в этих целях docker. Docker больше подходит для микросервисов. Удобнее всего собирать микросервисы на GNU/Linux, но работаь удобнее все-таки из привычного окна.
  <p>
