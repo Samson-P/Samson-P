@@ -28,6 +28,10 @@
  <img src="img/pycharm.png" alt="pycharm" width="30" height="30" />
  </p>
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Samson-P&show_icons=true" alt="Samson-P" height="200" />
+</p>
+
 
 ### Решать сложности, а не создавать их, ориентир на модульность
 В совершенно любой среде для виртуализации, если речь идет о полноценных серверах, или я нахожусь в стадии проектирования, я использую Hyper-V, VBox, реже в этих целях docker. Docker больше подходит для микросервисов. Удобнее всего собирать микросервисы на GNU/Linux, но работаь удобнее все-таки из привычного окна.
@@ -48,10 +52,6 @@
 </p>
 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Samson-P&show_icons=true" alt="Samson-P" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samson-P&hide=html,css" alt="Samson-P" height="200" />
-</p>
 
 
 ### Если можно собрать все, в чем я хорошо разбираюсь, и наполнить этим отдельный блок, то это был бы именно он!
@@ -68,6 +68,10 @@
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" width="30" height="30" />
  </p>
 <p>
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samson-P&hide=html,css" alt="Samson-P" height="200" />
 </p>
 
 
