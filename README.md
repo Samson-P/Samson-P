@@ -18,14 +18,14 @@
  <p>
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="30" height="30" />
- <img src="icons8-qt-50.png" alt="Qt" width="30" height="30" />
- <img src="PySimpleGUI.png" alt="PySGUI" width="30" height="30" />
+ <img src="img/qt.png" alt="Qt" width="30" height="30" />
+ <img src="img/pysimplegui.png" alt="PySGUI" width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="30" height="30" />
- <img src="icons8-postgresql-100.png" alt="PSQL" width="30" height="30" />
+ <img src="img/postgresql.png" alt="PSQL" width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="ansible" width="30" height="30" /> 
- <img src="vscode.png" alt="vscode" width="30" height="30" />
- <img src="pycharm.png" alt="pycharm" width="30" height="30" />
+ <img src="img/vscode.png" alt="vscode" width="30" height="30" />
+ <img src="img/pycharm.png" alt="pycharm" width="30" height="30" />
  </p>
 
 
@@ -53,13 +53,13 @@
 
 Приходилось ли вам настраивать SSL на коммерческом VPN хосте? А мне приходилось! Может вы имели дело с клиентским сервером без curl и wget, и вам приходилось использовать telnet? И обнаружить, что, оказываеся, telnet — это мощный и востребованный инструмент в мире B2B решений.
 <p>
- <img src="icons8-ssh-100.png" alt="hyper-v" width="30" height="30" />
- <img src="icons8-apache-a-free-and-open-source-cross-platform-web-server-software-48.png" alt="hyper-v" width="30" height="30" />
- <img src="https://img.icons8.com/color/48/000000/openvpn.png" alt="docker" width="30" height="30" />
- <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="docker" width="30" height="30" />
- <img src="icons8-ssl-60.png" alt="hyper-v" width="30" height="30" />
- <img src="https://img.icons8.com/color/48/000000/console.png" alt="docker" width="30" height="30" />
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="docker" width="30" height="30" />
+ <img src="img/ssh.png" alt="SSH" width="30" height="30" />
+ <img src="img/apache.png" alt="Apache" width="30" height="30" />
+ <img src="https://img.icons8.com/color/48/000000/openvpn.png" alt="OpenVPN" width="30" height="30" />
+ <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="NGinx" width="30" height="30" />
+ <img src="img/ssl.png" alt="SSL" width="30" height="30" />
+ <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal" width="30" height="30" />
+ <img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" width="30" height="30" />
  </p>
 <p>
 </p>
@@ -69,18 +69,18 @@
 Здесь речь пойдет о студенческих годах или о каких-то впрямь узких задачах, когда написать форк на Go — быстрее и лучше, чем изобретать свой велосипед. Так было с экспоретором для репликации БД MySQL для prometheus.
 <p>
  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="30" height="30" />
- <img src="paskal.abc.net.png" alt="Paskal" width="30" height="30" />
- <img src="icons8-c++-48.png" alt="c++" width="30" height="30" />
+ <img src="img/paskal.abc.net.png" alt="Paskal" width="30" height="30" />
+ <img src="img/c++.png" alt="C++" width="30" height="30" />
 </p>
 
 
 ## Важно всегда наверняка знать, в каком состоянии сейчас находятся десятки или сотни серверов
 Поэтому мониторинги занимают такое же важное место, как и те технологии, которые мы отслеживаем. Лучшим стэком по критериям масштабируемости и скорости развертки, являются Prometheus + Grafana.
 <p>
-<img src="icons8-prometheus-48.png" width="30" height="30" />
+<img src="img/prometheus.png" width="30" height="30" />
 <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Go" width="30" height="30" />
-<img src="msntis.png" alt="mantis" width="30" height="30" />
-<img src="zabbix.png" alt="zabbix" width="30" height="30" />
+<img src="img/mantis.png" alt="mantis" width="30" height="30" />
+<img src="img/zabbix.png" alt="zabbix" width="30" height="30" />
 </p>
 
  
