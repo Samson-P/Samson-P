@@ -48,6 +48,12 @@
 </p>
 
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Samson-P&show_icons=true" alt="Samson-P" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samson-P&hide=html,css" alt="Samson-P" height="200" />
+</p>
+
+
 ### Если можно собрать все, в чем я хорошо разбираюсь, и наполнить этим отдельный блок, то это был бы именно он!
 Какому девопс не приходилось администрировать HTTP сервер? Так я хочу продемонтрировать то многообразие технологий, без которых современный программист или девопс выглядит неполноценным.
 
