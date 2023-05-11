@@ -100,7 +100,7 @@
  <p>
  <!--<img src="https://media.giphy.com/media/r3xBH1FXWz0h55CVtj/giphy.gif" width="130"/>-->
   <div>
-   <img src="https://img.shields.io/badge/%40sampoh__27-tg-blue" />
+   <a target="_blank" href="https://web.telegram.org/k/#@sampoh_27/"><img src="https://img.shields.io/badge/%40sampoh__27-tg-blue" /></a>
    <img src="https://img.shields.io/badge/s.pohilenko-vk-blue" />
    <img src="https://img.shields.io/badge/samsonpohilenko-gmail-yellowgreen" />
    <img src="https://img.shields.io/badge/Samson--P%234193-discord-purple" />
