@@ -71,7 +71,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samson-P&hide=html,css" alt="Samson-P" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-P&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Samson-P" height="200" />
 </p>
 
 
